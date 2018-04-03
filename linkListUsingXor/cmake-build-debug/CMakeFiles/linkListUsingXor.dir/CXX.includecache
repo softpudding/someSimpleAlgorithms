@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/11570/CLionProjects/algorithm/linkListUsingXor/linklist.cpp
+linklist.h
+C:/Users/11570/CLionProjects/algorithm/linkListUsingXor/linklist.h
+iostream
+-
+
+C:/Users/11570/CLionProjects/algorithm/linkListUsingXor/linklist.h
+
+C:/Users/11570/CLionProjects/algorithm/linkListUsingXor/main.cpp
+iostream
+-
+linklist.h
+C:/Users/11570/CLionProjects/algorithm/linkListUsingXor/linklist.h
+
