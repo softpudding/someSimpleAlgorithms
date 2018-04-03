@@ -34,15 +34,18 @@ void LinkList::Delete(int k) {
     {
         Node * temp=cur;
         cur=XOR(cur->np,prev);//move to next
-        prev=cur;
+        prev=temp;
     }
     if(cur->key!=k)
     {
         std::cout<<"Delete failed.";
         return ;
     }
-    prev->np=XOR(XOR(cur,prev->np),XOR(cur->np,prev));
-    XOR(cur->np,prev)->np=XOR(XOR(cur,XOR(cur->np,prev)),prev);
+    if(cur!=head&&cur!=tail)
+    {
+        prev->np=XOR(XOR(cur,prev->np),XOR(cur->np,prev));
+        XOR(cur->np,prev)->np=XOR(XOR(cur,XOR(cur->np,prev)->np),prev);
+    }
     delete cur;
 
 }
