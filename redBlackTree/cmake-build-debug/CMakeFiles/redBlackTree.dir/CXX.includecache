@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/11570/CLionProjects/algorithm/redBlackTree/main.cpp
+iostream
+-
+rbtree.h
+C:/Users/11570/CLionProjects/algorithm/redBlackTree/rbtree.h
+
+C:/Users/11570/CLionProjects/algorithm/redBlackTree/rbtree.cpp
+rbtree.h
+C:/Users/11570/CLionProjects/algorithm/redBlackTree/rbtree.h
+iostream
+-
+
+C:/Users/11570/CLionProjects/algorithm/redBlackTree/rbtree.h
+
