@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\HuffmanV2.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\HuffmanV2.dir/objects.a @CMakeFiles\HuffmanV2.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\HuffmanV2.dir/objects.a -Wl,--no-whole-archive  -o HuffmanV2.exe -Wl,--out-implib,libHuffmanV2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\HuffmanV2.dir\linklibs.rsp

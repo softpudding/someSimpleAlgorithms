@@ -1,3 +1,0 @@
-C:/Users/11570/CLionProjects/algorithm/deHuffman/cmake-build-debug/CMakeFiles/deHuffman.dir
-C:/Users/11570/CLionProjects/algorithm/deHuffman/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/11570/CLionProjects/algorithm/deHuffman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
