@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -E remo
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\11570\CLionProjects\algorithm\redBlackTree
+CMAKE_SOURCE_DIR = C:\Users\11570\Documents\GitHub\someSimpleAlgorithms\redBlackTree
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\11570\CLionProjects\algorithm\redBlackTree\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\11570\Documents\GitHub\someSimpleAlgorithms\redBlackTree\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/redBlackTree.dir/depend.make
@@ -58,16 +58,16 @@ include CMakeFiles/redBlackTree.dir/flags.make
 
 CMakeFiles/redBlackTree.dir/main.cpp.obj: CMakeFiles/redBlackTree.dir/flags.make
 CMakeFiles/redBlackTree.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\11570\CLionProjects\algorithm\redBlackTree\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/redBlackTree.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\redBlackTree.dir\main.cpp.obj -c C:\Users\11570\CLionProjects\algorithm\redBlackTree\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\11570\Documents\GitHub\someSimpleAlgorithms\redBlackTree\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/redBlackTree.dir/main.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\redBlackTree.dir\main.cpp.obj -c C:\Users\11570\Documents\GitHub\someSimpleAlgorithms\redBlackTree\main.cpp
 
 CMakeFiles/redBlackTree.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/redBlackTree.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\11570\CLionProjects\algorithm\redBlackTree\main.cpp > CMakeFiles\redBlackTree.dir\main.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\11570\Documents\GitHub\someSimpleAlgorithms\redBlackTree\main.cpp > CMakeFiles\redBlackTree.dir\main.cpp.i
 
 CMakeFiles/redBlackTree.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/redBlackTree.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\11570\CLionProjects\algorithm\redBlackTree\main.cpp -o CMakeFiles\redBlackTree.dir\main.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\11570\Documents\GitHub\someSimpleAlgorithms\redBlackTree\main.cpp -o CMakeFiles\redBlackTree.dir\main.cpp.s
 
 CMakeFiles/redBlackTree.dir/main.cpp.obj.requires:
 
@@ -82,16 +82,16 @@ CMakeFiles/redBlackTree.dir/main.cpp.obj.provides.build: CMakeFiles/redBlackTree
 
 CMakeFiles/redBlackTree.dir/rbtree.cpp.obj: CMakeFiles/redBlackTree.dir/flags.make
 CMakeFiles/redBlackTree.dir/rbtree.cpp.obj: ../rbtree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\11570\CLionProjects\algorithm\redBlackTree\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/redBlackTree.dir/rbtree.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\redBlackTree.dir\rbtree.cpp.obj -c C:\Users\11570\CLionProjects\algorithm\redBlackTree\rbtree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\11570\Documents\GitHub\someSimpleAlgorithms\redBlackTree\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/redBlackTree.dir/rbtree.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\redBlackTree.dir\rbtree.cpp.obj -c C:\Users\11570\Documents\GitHub\someSimpleAlgorithms\redBlackTree\rbtree.cpp
 
 CMakeFiles/redBlackTree.dir/rbtree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/redBlackTree.dir/rbtree.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\11570\CLionProjects\algorithm\redBlackTree\rbtree.cpp > CMakeFiles\redBlackTree.dir\rbtree.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\11570\Documents\GitHub\someSimpleAlgorithms\redBlackTree\rbtree.cpp > CMakeFiles\redBlackTree.dir\rbtree.cpp.i
 
 CMakeFiles/redBlackTree.dir/rbtree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/redBlackTree.dir/rbtree.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\11570\CLionProjects\algorithm\redBlackTree\rbtree.cpp -o CMakeFiles\redBlackTree.dir\rbtree.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\11570\Documents\GitHub\someSimpleAlgorithms\redBlackTree\rbtree.cpp -o CMakeFiles\redBlackTree.dir\rbtree.cpp.s
 
 CMakeFiles/redBlackTree.dir/rbtree.cpp.obj.requires:
 
@@ -118,7 +118,7 @@ redBlackTree.exe: CMakeFiles/redBlackTree.dir/build.make
 redBlackTree.exe: CMakeFiles/redBlackTree.dir/linklibs.rsp
 redBlackTree.exe: CMakeFiles/redBlackTree.dir/objects1.rsp
 redBlackTree.exe: CMakeFiles/redBlackTree.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\11570\CLionProjects\algorithm\redBlackTree\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable redBlackTree.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\11570\Documents\GitHub\someSimpleAlgorithms\redBlackTree\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable redBlackTree.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\redBlackTree.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -136,6 +136,6 @@ CMakeFiles/redBlackTree.dir/clean:
 .PHONY : CMakeFiles/redBlackTree.dir/clean
 
 CMakeFiles/redBlackTree.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\11570\CLionProjects\algorithm\redBlackTree C:\Users\11570\CLionProjects\algorithm\redBlackTree C:\Users\11570\CLionProjects\algorithm\redBlackTree\cmake-build-debug C:\Users\11570\CLionProjects\algorithm\redBlackTree\cmake-build-debug C:\Users\11570\CLionProjects\algorithm\redBlackTree\cmake-build-debug\CMakeFiles\redBlackTree.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\11570\Documents\GitHub\someSimpleAlgorithms\redBlackTree C:\Users\11570\Documents\GitHub\someSimpleAlgorithms\redBlackTree C:\Users\11570\Documents\GitHub\someSimpleAlgorithms\redBlackTree\cmake-build-debug C:\Users\11570\Documents\GitHub\someSimpleAlgorithms\redBlackTree\cmake-build-debug C:\Users\11570\Documents\GitHub\someSimpleAlgorithms\redBlackTree\cmake-build-debug\CMakeFiles\redBlackTree.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/redBlackTree.dir/depend
 

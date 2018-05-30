@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/11570/CLionProjects/algorithm/redBlackTree/main.cpp" "C:/Users/11570/CLionProjects/algorithm/redBlackTree/cmake-build-debug/CMakeFiles/redBlackTree.dir/main.cpp.obj"
-  "C:/Users/11570/CLionProjects/algorithm/redBlackTree/rbtree.cpp" "C:/Users/11570/CLionProjects/algorithm/redBlackTree/cmake-build-debug/CMakeFiles/redBlackTree.dir/rbtree.cpp.obj"
+  "C:/Users/11570/Documents/GitHub/someSimpleAlgorithms/redBlackTree/main.cpp" "C:/Users/11570/Documents/GitHub/someSimpleAlgorithms/redBlackTree/cmake-build-debug/CMakeFiles/redBlackTree.dir/main.cpp.obj"
+  "C:/Users/11570/Documents/GitHub/someSimpleAlgorithms/redBlackTree/rbtree.cpp" "C:/Users/11570/Documents/GitHub/someSimpleAlgorithms/redBlackTree/cmake-build-debug/CMakeFiles/redBlackTree.dir/rbtree.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -6,17 +6,17 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/11570/CLionProjects/algorithm/redBlackTree/main.cpp
+C:/Users/11570/Documents/GitHub/someSimpleAlgorithms/redBlackTree/main.cpp
 iostream
 -
 rbtree.h
-C:/Users/11570/CLionProjects/algorithm/redBlackTree/rbtree.h
+C:/Users/11570/Documents/GitHub/someSimpleAlgorithms/redBlackTree/rbtree.h
 
-C:/Users/11570/CLionProjects/algorithm/redBlackTree/rbtree.cpp
+C:/Users/11570/Documents/GitHub/someSimpleAlgorithms/redBlackTree/rbtree.cpp
 rbtree.h
-C:/Users/11570/CLionProjects/algorithm/redBlackTree/rbtree.h
+C:/Users/11570/Documents/GitHub/someSimpleAlgorithms/redBlackTree/rbtree.h
 iostream
 -
 
-C:/Users/11570/CLionProjects/algorithm/redBlackTree/rbtree.h
+C:/Users/11570/Documents/GitHub/someSimpleAlgorithms/redBlackTree/rbtree.h
 
