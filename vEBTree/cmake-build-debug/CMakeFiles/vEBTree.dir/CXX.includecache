@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/11570/CLionProjects/algorithm/vEBTree/main.cpp
+iostream
+-
+vebtree.h
+C:/Users/11570/CLionProjects/algorithm/vEBTree/vebtree.h
+
+C:/Users/11570/CLionProjects/algorithm/vEBTree/vebtree.h
+
